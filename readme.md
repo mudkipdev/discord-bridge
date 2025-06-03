@@ -1,4 +1,6 @@
 # Retro-Release Discord Bridge
+[![](https://dcbadge.limes.pink/api/server/k2wGKEaCRA)](https://discord.gg/k2wGKEaCRA)   
+
 Discord bridge/relay plugin for both [old and new release (plus some Beta) versions](#tested-versions) (b1.7.3*-1.21.1) of Minecraft.   
 
 For config info, check out [this](https://github.com/DexrnZacAttack/RRDiscordBridge/wiki/Config).
