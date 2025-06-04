@@ -1,5 +1,5 @@
 name: RRDiscordBridge
-version: 1.4.0
+version: ${version}
 main: io.github.dexrnzacattack.rrdiscordbridge.RRDiscordBridge
 author: DexrnZacAttack
 description: Discord Bridge for early and modern release versions of Minecraft.
