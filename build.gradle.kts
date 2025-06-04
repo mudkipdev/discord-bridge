@@ -9,7 +9,6 @@ description = "Discord bridge/relay plugin for both old and new release (plus so
 java.toolchain.languageVersion = JavaLanguageVersion.of(8)
 
 repositories {
-    mavenLocal()
     mavenCentral()
     maven("https://nexus.scarsz.me/content/repositories/releases")
     maven("https://repo.md-5.net/content/groups/public")
